@@ -1,0 +1,1 @@
+export const Days = [{"value":"lundi"},{"value":"mardi"},{"value":"mercredi"},{"value":"jeudi"},{"value":"vendredi"},{"value":"samedi"},{"value":"dimanche"}]
